@@ -1,0 +1,7 @@
+Setup Ollama locally/on colab and showcase the zero-shot performance of time-series forecasting with LLMs for next 24 hours. Come up with most efficient ways to showcase your results with matplotlib.
+
+Show your insights about which model did the best and why.
+
+LSTM is a mandatory baseline.
+
+[Optional][Selection booster] Showcase performance of any open-source LLMs made for time-series forecasting.
